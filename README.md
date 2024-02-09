@@ -1,1 +1,1 @@
-# HTML Email Portfolio
+# HTML Email Developer Portfolio
